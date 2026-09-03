@@ -1,4 +1,4 @@
-:HL["/dasa-service/_next/static/chunks/0o_ca-prkuh1l.css","style"]
+:HL["/dasa-service/_next/static/chunks/0o~imik7zn5ac.css","style"]
 :HL["/dasa-service/_next/static/media/caa3a2e1cccd8315-s.p.09~u27dqhyhd6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["./dasa-logo.png","image"]
 :HL["./referenzen/kaltwassersatz-dach.jpg","image"]
@@ -7,4 +7,4 @@
 :HL["./partner/hitachi.png","image"]
 :HL["./partner/mitsubishi-electric.png","image"]
 :HL["./partner/mitsubishi-heavy.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"kRq-KHoKz-ppGO3edJJOi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"6myikAJ9q27GipJP03urW"}
