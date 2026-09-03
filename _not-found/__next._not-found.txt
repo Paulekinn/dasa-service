@@ -2,4 +2,4 @@
 2:I[39756,["/dasa-service/_next/static/chunks/0dbhjjzl8qfwv.js","/dasa-service/_next/static/chunks/0k6kr~ze-.qya.js"],"default"]
 3:I[37457,["/dasa-service/_next/static/chunks/0dbhjjzl8qfwv.js","/dasa-service/_next/static/chunks/0k6kr~ze-.qya.js"],"default"]
 4:[]
-0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"1wkRuRsCgPNCp0wmw1bif"}
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"0CWj6Fi-EXuxLME3BSY_k"}
