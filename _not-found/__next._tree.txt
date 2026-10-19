@@ -1,2 +1,2 @@
-:HL["/dasa-service/_next/static/chunks/0iaoent8-iuhi.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"raq-RCzPf9FGpj29V8HKW"}
+:HL["/dasa-service/_next/static/chunks/0bf6ap09s4yzr.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"bLa7n6PyKnQMMszStCF6Z"}
